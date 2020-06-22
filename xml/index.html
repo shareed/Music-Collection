@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>The Music Collection</title>
+    <link rel="stylesheet" type="text/css" href="css/index.css">
+    <link rel="stylesheet" type="text/css" href="hiphop.xml">
+    <link rel="stylesheet" type="text/css" href="pop.xml">
+    <link rel="stylesheet" type="text/css" href="randb.xml">
+    <link rel="stylesheet" type="text/css" href="reggae.xml">
+    <link rel="stylesheet" type="text/css" href="rap.xml">
+    
+</head>
+
+<body>
+  <div class = 'bg'>
+    <img class = 'bgimage' src = 'images/musicbg.jpg'/>
+    <div class='container'>
+      <div class = 'nav'>
+        <nav >
+            <a href = "xml/reggae.xml">Reggae</a>
+            <a href = "xml/rap.xml">Rap</a>
+            <a href = "xml/randb.xml">R&B</a>
+            <a href = "xml/pop.xml">Pop</a>
+            <a href = "xml/hiphop.xml">HipHop</a>
+        </nav>
+      </div>
+
+      <div class = 'heading'>
+        <h1>The Music Collection</h1>
+      </div>
+
+      <div class = 'info'>
+        <p>Labore aut. Ipsum ipsum exercitationem. Sit nemo but enim. Aliquip qui
+           so commodo adipisci and nemo, nor anim but irure. Excepteur cupidatat 
+           minim or velit so omnis ratione but exercitationem. Anim doloremque and
+            commodo but nulla, and totam, odit. Quisquam nulla nor nostrum for sint.
+             Aute dolore. Autem quis deserunt amet. Totam. Magni quam consectetur. 
+             Aliqua anim, quia rem but veniam tempora aliquam. Aliqua rem for 
+             exercitation for adipisicing nor dolores, and non but nihil.</p>
+            <div class = 'buttons'>
+              <button><a href = "signedin.html">Sign In</a></button>
+            <button><a href = "signedin.html">Sign Up</a></button>
+          </div> 
+      </div>
+
+      <div>
+        <button><a href = './rap.html'>AJAX RAP DATA</a> </button>
+        <button><a href = './reggae.html'>AJAX REGGAE DATA</a></button>
+        <button><a href = './randb.html'>AJAX RandB DATA</a></button>
+        <button><a href = './pop.html'>AJAX POP DATA</a></button>
+        <button><a href = './hiphop.html'>AJAX HIPHOP DATA</a></button>
+      </div>
+
+      <footer>
+          <div>
+              <button onclick = 'displayURLFunction()'>Get Page URL</button>
+              <p id = 'url'></p>
+          </div>
+      </footer>
+    </div>
+  </div>
+  <script src = "index.js"></script>
+</body>
+</html>

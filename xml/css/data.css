@@ -1,0 +1,11 @@
+RandB_music {
+    background-color: green;
+}
+
+menu {
+    background-color: red;
+}
+
+song {
+    display: flex;
+}

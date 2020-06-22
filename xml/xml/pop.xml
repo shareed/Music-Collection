@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<pop_music>
+    <song>
+    <name>The Lazy Song</name>
+    <artist>Bruno Mars</artist>
+    <year>2010</year>
+    </song>
+
+    <song>
+    <name>Stay With Me</name>
+    <artist>Sam Smith</artist>
+    <year>1998</year>
+    </song>
+
+    <song>
+    <name>Can't Feel My Face</name>
+    <artist>The Weekend</artist>
+    <year>2015</year>
+    </song>
+
+    <song>
+    <name>Too Good At GoodByes</name>
+    <artist>Sam Smith</artist>
+    <year>2017</year>
+    </song>
+
+    <song>
+    <name>24K Magic</name>
+    <artist>Bruno Mars</artist>
+    <year>2016</year>
+    </song>
+
+    <song>
+    <name>Spirit</name>
+    <artist>Beyonce</artist>
+    <year>2019</year>
+    </song>
+
+    <song>
+    <name>Let Her Go</name>
+    <artist>Passenger</artist>
+    <year>2012</year>
+    </song>
+
+    <song>
+    <name>Halo</name>
+    <artist>Beyonce</artist>
+    <year>2008</year>
+    </song>
+
+    <song>
+    <name>Havana</name>
+    <artist>Camila Cabello</artist>
+    <year></year>
+    </song>
+
+    <song>
+    <name>What You Know</name>
+    <artist>T.I.</artist>
+    <year>2005</year>
+    </song>
+
+    <song>
+    <name>B.O.B</name>
+    <artist>Outkast</artist>
+    <year>2000</year>
+    </song>
+
+    <song>
+    <name>Lost Ones</name>
+    <artist>Lauryn Hill</artist>
+    <year>1999</year>
+    </song>
+
+    <song>
+    <name>Dear Mama</name>
+    <artist>2Pac</artist>
+    <year>1989</year>
+    </song>
+
+    <song>
+    <name>Big Pimpin</name>
+    <artist>Jay Z feat. UGK</artist>
+    <year>1999</year>
+    </song>
+
+    <song>
+    <name>La-Di-Da-Di</name>
+    <artist>Doug E. Fresh and Slick Rick</artist>
+    <year>1985</year>
+    </song>
+</pop_music>

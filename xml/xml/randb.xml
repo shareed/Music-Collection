@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<RandB_music>
+    <menu>
+        <item>HOME</item>
+        <item>RAP</item>
+        <item>RAGGAE</item>
+        <item>POP</item>
+        <item>HIPHOP</item>
+    </menu>
+    <song>
+    <name>That's the Way Love goes</name>
+    <artist>Janet Jackson</artist>
+    <year>1993</year>
+    </song>
+
+    <song>
+    <name>You're Makin Me High</name>
+    <artist>Toni Braxton</artist>
+    <year>1998</year>
+    </song>
+
+    <song>
+    <name>Happy</name>
+    <artist>Pharrell Williams</artist>
+    <year>2013</year>
+    </song>
+
+    <song>
+    <name>Family Affair</name>
+    <artist>Mary J Blige</artist>
+    <year>2001</year>
+    </song>
+
+    <song>
+    <name>You Don't Know My Name</name>
+    <artist>Alicia Keys</artist>
+    <year>1989</year>
+    </song>
+
+    <song>
+    <name>Diva</name>
+    <artist>Beyonce</artist>
+    <year>2008</year>
+    </song>
+
+    <song>
+    <name>Beauty</name>
+    <artist>Dru Hill</artist>
+    <year>1998</year>
+    </song>
+
+    <song>
+    <name>Best Thing I Never Had</name>
+    <artist>Beyonce</artist>
+    <year>2011</year>
+    </song>
+
+    <song>
+    <name>10 seconds</name>
+    <artist>Jazmine Sullivan</artist>
+    <year>2010</year>
+    </song>
+
+    <song>
+    <name>Scars To Your Beautiful</name>
+    <artist>Alessia Cara</artist>
+    <year>2005</year>
+    </song>
+
+    <song>
+    <name>Luv Back</name>
+    <artist>Jasmine Sullivan</artist>
+    <year>2000</year>
+    </song>
+
+    <song>
+    <name>What Are We Gonna Do</name>
+    <artist>Dru Hill</artist>
+    <year>1998</year>
+    </song>
+
+    <song>
+    <name>Listen</name>
+    <artist>Beyonce</artist>
+    <year>2006</year>
+    </song>
+
+    <song>
+    <name>Yeah</name>
+    <artist>Usher feat. Lil John</artist>
+    <year>2004</year>
+    </song>
+
+    <song>
+    <name>If I Ain't Got You</name>
+    <artist>Alicia Keys</artist>
+    <year>1985</year>
+    </song>
+</RandB_music>

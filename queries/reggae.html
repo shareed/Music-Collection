@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Reggae Songs Query</title>
+    <!-- <link rel="stylesheet" type="text/css" href="../css/index.css"> -->
+    <link rel="stylesheet" type="text/css" href="../css/query.css">
+    <link rel="stylesheet" type="text/css" href="../css/index.css">
+    <link rel="stylesheet" type="text/css" href="hiphop.xml">
+    <link rel="stylesheet" type="text/css" href="pop.xml">
+    <link rel="stylesheet" type="text/css" href="randb.xml">
+    <link rel="stylesheet" type="text/css" href="reggae.xml">
+    <link rel="stylesheet" type="text/css" href="rap.xml">
+</head>
+<body>
+  <div class = 'bg'>
+    <img class = 'bgimage' src = '../images/musicbg.jpg'/>
+    <div class='container'>
+          <div class = 'nav'>
+            <nav >
+                <div class = 'dropdown'>
+                  <a href = "#">Reggae</a>
+                  <div class = "dropdown-content">
+                      <a href="/xml/reggae.xml">XML</a>
+                      <a href="../ajax/reggae.html">AJAX</a>
+                      </div>
+                </div>
+                <div class = 'dropdown'>
+                  <a href = "#">Rap</a>
+                  <div class = "dropdown-content">
+                      <a href="/xml/rap.xml">XML</a>
+                      <a href="../ajax/rap.html">AJAX</a>
+                      </div>
+                
+                </div>
+                <div class = 'dropdown'>
+                  <a href = "#">R&B</a>
+                  <div class = "dropdown-content">
+                      <a href="/xml/randb.xml">XML</a>
+                      <a href="../ajax/randb.html">AJAX</a>
+                      </div>
+                </div>
+                <div class = 'dropdown'>
+                  <a href = "#">Pop</a>
+                  <div class = "dropdown-content">
+                      <a href="/xml/pop.xml">XML</a>
+                      <a href="../ajax/pop.html">AJAX</a>
+                      </div>
+                
+                </div>
+                <div class = 'dropdown'>
+                  <a href = "#">HipHop</a>
+                  <div class = "dropdown-content">
+                      <a href="/xml/hiphop.xml">XML</a>
+                      <a href="../ajax/hiphop.html">AJAX</a>
+                      </div>
+                      </div>
+            <a href = "/about.html">About</a>
+            <a href = "../html/explore.html">Explore</a>
+        </nav>
+      </div>
+      <section class = 'query'>
+        <div class = 'description'>
+            <h2>Reggae songs that were released in or after 2015</h2>
+
+            <button onclick = 'displayTitleFunction()'>Get This websiteTitle</button>
+          <p id = 'title'></p>
+          </div>
+        <div class = 'screenshot'>
+        <img class = 'querypic' src = '../images/reggae.png'/>
+        </div>
+    </section>
+  </div>
+  <script src = "../index.js"></script>
+</body>
+</html>
